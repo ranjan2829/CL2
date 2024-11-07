@@ -5,3 +5,5 @@ https://3ds-download-eu-west-1.s3.eu-west-1.amazonaws.com/public/BIOVIA/BIOVIA_D
 
 
 Yt videos => https://www.youtube.com/@prathameshparit/videos
+
+pyrx - https://sourceforge.net/projects/pyrx/
